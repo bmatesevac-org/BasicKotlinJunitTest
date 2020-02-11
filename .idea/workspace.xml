@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa57e01a-d4a8-4764-9e6e-2d44e0cb070b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRkMwzi22jlfB4kSWT8jOcKFwT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.DingoTestCasss">
+    <configuration name="DingoTestCasss" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CbcMiddlewareKotlinTest.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DingoTestCasss" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DingoTestCasss.Test001" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DingoTestCasss.Test001&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DingoTestCasss.Test002" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DingoTestCasss.Test002&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CbcMiddlewareKotlinTest.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.DingoTestCasss" />
+        <item itemvalue="Gradle.DingoTestCasss.Test002" />
+        <item itemvalue="Gradle.DingoTestCasss.Test001" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa57e01a-d4a8-4764-9e6e-2d44e0cb070b" name="Default Changelist" comment="" />
+      <created>1581016249143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581016249143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1833" height="632" key="GridCell.Tab.0.bottom" timestamp="1581435501434">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="632" key="GridCell.Tab.0.bottom/69.23.3771.2137@69.23.3771.2137" timestamp="1581435501434" />
+    <state width="1833" height="632" key="GridCell.Tab.0.center" timestamp="1581435501433">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="632" key="GridCell.Tab.0.center/69.23.3771.2137@69.23.3771.2137" timestamp="1581435501433" />
+    <state width="1833" height="632" key="GridCell.Tab.0.left" timestamp="1581435501432">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="632" key="GridCell.Tab.0.left/69.23.3771.2137@69.23.3771.2137" timestamp="1581435501432" />
+    <state width="1833" height="632" key="GridCell.Tab.0.right" timestamp="1581435501433">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="632" key="GridCell.Tab.0.right/69.23.3771.2137@69.23.3771.2137" timestamp="1581435501433" />
+    <state width="1833" height="824" key="GridCell.Tab.1.bottom" timestamp="1581434914027">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="824" key="GridCell.Tab.1.bottom/69.23.3771.2137@69.23.3771.2137" timestamp="1581434914027" />
+    <state width="1833" height="824" key="GridCell.Tab.1.center" timestamp="1581434914026">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="824" key="GridCell.Tab.1.center/69.23.3771.2137@69.23.3771.2137" timestamp="1581434914026" />
+    <state width="1833" height="824" key="GridCell.Tab.1.left" timestamp="1581434914026">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="824" key="GridCell.Tab.1.left/69.23.3771.2137@69.23.3771.2137" timestamp="1581434914026" />
+    <state width="1833" height="824" key="GridCell.Tab.1.right" timestamp="1581434914027">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state width="1833" height="824" key="GridCell.Tab.1.right/69.23.3771.2137@69.23.3771.2137" timestamp="1581434914027" />
+    <state x="520" y="196" key="SettingsEditor" timestamp="1581434727547">
+      <screen x="69" y="23" width="3771" height="2137" />
+    </state>
+    <state x="520" y="196" key="SettingsEditor/69.23.3771.2137@69.23.3771.2137" timestamp="1581434727547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/main.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/main.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/main.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/DingoConverterTest.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/DingoConverterTest.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
